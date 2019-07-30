@@ -8,6 +8,7 @@
 * A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
 * Deep Clustering for Unsupervised Learning of Visual Features
 * Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization
+* Clustering with Deep Learning: Taxonomy and New Methods
 
 ## Bilinear Pooling/ Second Order Pooling
 * Semantic Segmentation with Second-Order Pooling
