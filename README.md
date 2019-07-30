@@ -6,6 +6,16 @@
 * Learning Discrete Representations via Information Maximizing Self-Augmented Training
 
 ## Bilinear pooling/ Second order pooling
-* 
+* Semantic Segmentation with Second-Order Pooling
+* Bilinear CNN Models for Fine-grained Visual Recognition
+* Compact Bilinear Pooling
+* Improved Bilinear Pooling with CNNs
+* Is Second-order Information Helpful for Large-scale Visual Recognition
+* Kernel Pooling for Convolutional Neural Networks
+* Matrix Backpropagation for Deep Networks with Structured Layers
+* MoM: Mean of Moments Feature for Person Re-identification
+* MoNet: Moments Embedding Network
+* Sorting out typicality with the inverse moment matrix SOS polynomial
+* Interferences in match kernels
 
 
