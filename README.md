@@ -22,5 +22,6 @@
 * Higher-order Occurrence Pooling on Mid- and Low-level Features: Visual Concept Detection
 * Local Temporal Bilinear Pooling for Fine-Grained Action Parsing
 * Deep CNNs Meet Global Covariance Pooling Better Representation and Generalization
+* Attentional Pooling for Action Recognition
 
 
