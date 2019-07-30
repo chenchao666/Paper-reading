@@ -35,5 +35,6 @@
 
 ## Domian Adaptation
 * A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
+* Asymmetric Tri-training for Unsupervised Domain Adaptation
 
 
