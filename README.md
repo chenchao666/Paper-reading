@@ -1,4 +1,4 @@
-# Paper-reading
+# Paper-Reading
 
 ## Unsupervised feature learning in CNN
 * Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
