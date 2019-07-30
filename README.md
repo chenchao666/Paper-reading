@@ -1,6 +1,7 @@
 # Paper-Reading
 
 ## Unsupervised Feature Learning in CNN
+* Deep Learning via Semi-Supervised Embedding
 * Unsupervised Deep Embedding for Clustering Analysis
 * Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
 * Unsupervised Feature Learning via Non-Parametric Instance Discrimination
