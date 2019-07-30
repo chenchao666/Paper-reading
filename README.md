@@ -17,5 +17,10 @@
 * MoNet: Moments Embedding Network
 * Sorting out typicality with the inverse moment matrix SOS polynomial
 * Interferences in match kernels
+* Aggregating local descriptors into a compact image representation （VLAD）
+* NetVLAD: CNN architecture for weakly supervised place recognition
+* Higher-order Occurrence Pooling on Mid- and Low-level Features: Visual Concept Detection
+* Local Temporal Bilinear Pooling for Fine-Grained Action Parsing
+* Deep CNNs Meet Global Covariance Pooling Better Representation and Generalization
 
 
