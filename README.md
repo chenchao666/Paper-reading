@@ -4,6 +4,7 @@
 * Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
 * Unsupervised Feature Learning via Non-Parametric Instance Discrimination
 * Learning Discrete Representations via Information Maximizing Self-Augmented Training
+* A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
 
 ## Bilinear Pooling/ Second Order Pooling
 * Semantic Segmentation with Second-Order Pooling
@@ -29,5 +30,6 @@
 ## Attention
 
 ## Domian Adaptation
+* A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
 
 
