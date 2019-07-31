@@ -36,6 +36,7 @@
 
 ## Domian Adaptation
 * A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
+* Co-regularized Alignment for Unsupervised Domain Adaptation
 * Asymmetric Tri-training for Unsupervised Domain Adaptation
 
 
