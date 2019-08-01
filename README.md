@@ -12,6 +12,7 @@
 * Clustering with Deep Learning: Taxonomy and New Methods
 * Self-Supervised Semi-Supervised Learning
 * Feature Extraction by Non-Parametric Mutual Information Maximization
+* Discriminative Clustering by Regularized Information Maximization
 
 
 ## Bilinear Pooling/ Second Order Pooling
