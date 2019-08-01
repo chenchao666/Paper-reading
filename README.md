@@ -12,6 +12,7 @@
 * Clustering with Deep Learning: Taxonomy and New Methods
 * Self-Supervised Semi-Supervised Learning
 * Feature Extraction by Non-Parametric Mutual Information Maximization
+* Semi-supervised Learning by Entropy Minimization
 * Discriminative Clustering by Regularized Information Maximization
 
 
