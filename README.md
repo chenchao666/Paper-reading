@@ -11,6 +11,8 @@
 * Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization
 * Clustering with Deep Learning: Taxonomy and New Methods
 * Self-Supervised Semi-Supervised Learning
+* Feature Extraction by Non-Parametric Mutual Information Maximization
+
 
 ## Bilinear Pooling/ Second Order Pooling
 * Semantic Segmentation with Second-Order Pooling
