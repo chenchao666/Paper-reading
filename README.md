@@ -14,6 +14,7 @@
 * Feature Extraction by Non-Parametric Mutual Information Maximization
 * Semi-supervised Learning by Entropy Minimization
 * Discriminative Clustering by Regularized Information Maximization
+* Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
 
 
 ## Bilinear Pooling/ Second Order Pooling
