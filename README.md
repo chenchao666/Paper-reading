@@ -45,5 +45,7 @@
 * A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
 * Co-regularized Alignment for Unsupervised Domain Adaptation
 * Asymmetric Tri-training for Unsupervised Domain Adaptation
+* Cluster Alignment with a Teacher for Unsupervised Domain Adaptation
+
 
 
