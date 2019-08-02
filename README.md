@@ -16,6 +16,7 @@
 * Semi-supervised Learning by Entropy Minimization
 * Discriminative Clustering by Regularized Information Maximization
 * Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
+* Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance
 
 
 ## Bilinear Pooling/ Second Order Pooling
