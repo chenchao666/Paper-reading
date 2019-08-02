@@ -2,6 +2,7 @@
 
 ## Unsupervised Feature Learning in CNN
 * Deep Learning via Semi-Supervised Embedding
+* Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
 * Unsupervised Deep Embedding for Clustering Analysis
 * Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
 * Unsupervised Feature Learning via Non-Parametric Instance Discrimination
