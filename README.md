@@ -1,6 +1,6 @@
 # Paper-Reading
 
-## Unsupervised Feature Learning in CNN
+## Unsupervised/ Simi-Supervised Feature Learning in CNN
 * Deep Learning via Semi-Supervised Embedding
 * Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
 * Unsupervised Deep Embedding for Clustering Analysis
@@ -19,6 +19,7 @@
 * Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance
 * mixup: Beyond empirical risk minimization
 * Mixmatch: A holistic approach to semi-supervised learning
+* Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
 
 
 ## Bilinear Pooling/ Second Order Pooling
