@@ -17,6 +17,8 @@
 * Discriminative Clustering by Regularized Information Maximization
 * Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
 * Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance
+* mixup: Beyond empirical risk minimization
+* Mixmatch: A holistic approach to semi-supervised learning
 
 
 ## Bilinear Pooling/ Second Order Pooling
