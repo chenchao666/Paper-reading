@@ -1,5 +1,10 @@
 # Paper-Reading
 
+## CNN Regularizer
+* REGULARIZING NEURAL NETWORKS BY PENALIZING CONFIDENT OUTPUT DISTRIBUTIONS
+* Gradient Regularization Improves Accuracy of Discriminative Models
+* Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization
+
 ## Unsupervised/ Simi-Supervised Feature Learning in CNN
 * Deep Learning via Semi-Supervised Embedding
 * Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
