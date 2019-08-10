@@ -4,6 +4,7 @@
 * REGULARIZING NEURAL NETWORKS BY PENALIZING CONFIDENT OUTPUT DISTRIBUTIONS
 * Gradient Regularization Improves Accuracy of Discriminative Models
 * Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization
+* Label Renery: Improving ImageNet Classification through Label Progression
 
 ## Unsupervised/ Simi-Supervised Feature Learning in CNN
 * Deep Learning via Semi-Supervised Embedding
