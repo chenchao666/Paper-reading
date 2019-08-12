@@ -5,6 +5,7 @@
 * Gradient Regularization Improves Accuracy of Discriminative Models
 * Improving DNN Robustness to Adversarial Attacks using Jacobian Regularization
 * Label Renery: Improving ImageNet Classification through Label Progression
+* Spectral Norm Regularization for Improving the Generalizability of deep learning
 
 ## Unsupervised/ Simi-Supervised Feature Learning in CNN
 * Deep Learning via Semi-Supervised Embedding
