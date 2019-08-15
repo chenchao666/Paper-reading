@@ -28,6 +28,7 @@
 * mixup: Beyond empirical risk minimization
 * Mixmatch: A holistic approach to semi-supervised learning
 * Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
+* When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets
 
 
 ## Bilinear Pooling/ Second Order Pooling
@@ -59,6 +60,7 @@
 * Co-regularized Alignment for Unsupervised Domain Adaptation
 * Asymmetric Tri-training for Unsupervised Domain Adaptation
 * Cluster Alignment with a Teacher for Unsupervised Domain Adaptation
+* When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets
 
 
 
