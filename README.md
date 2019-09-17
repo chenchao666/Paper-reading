@@ -93,6 +93,7 @@
 * Asymmetric Tri-training for Unsupervised Domain Adaptation
 * Cluster Alignment with a Teacher for Unsupervised Domain Adaptation
 * When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets
+* Transferrable Prototypical Networks for Unsupervised Domain Adaptation
 
 
 
