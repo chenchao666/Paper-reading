@@ -1,5 +1,12 @@
 # Paper-Reading
 
+## ICCV19 paper
+* Relational Knowledge Distillation
+* Correlation Congruence for Knowledge Distillation
+* Metric Learning With HORDE High-Order Regularizer for Deep Embeddings
+* A Closed-form Solution to Universal Style Transfer
+* Learning Combinatorial Embedding Networks for Deep Graph Matching
+
 ## CNN Regularizer
 * REGULARIZING NEURAL NETWORKS BY PENALIZING CONFIDENT OUTPUT DISTRIBUTIONS
 * Gradient Regularization Improves Accuracy of Discriminative Models
