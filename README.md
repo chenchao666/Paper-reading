@@ -77,6 +77,13 @@
 * TSM Temporal Shift Module for Efficient Video Understanding
 
 ## Attention
+* Attention Is All You Need
+* Squeeze-and-Excitation Networks
+* CBAM Convolutional Block Attention Module
+* BAM Bottleneck Attention Module
+* Residual Attention Network for Image Classification
+* pay more attention to attention
+* Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation
 
 ## Domian Adaptation
 * Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation
