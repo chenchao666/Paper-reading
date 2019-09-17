@@ -58,6 +58,23 @@
 * Attentional Pooling for Action Recognition
 
 ## Action Recognition in Videos
+* Large-scale Video Classification with Convolutional Neural Networks
+* Two-Stream Convolutional Networks for Action Recognition in Videos
+* Spatiotemporal Multiplier Networks for Video Action Recognition
+* Temporal Segment Networks: Towards Good Practices for Deep Action Recognition
+* Learning Spatiotemporal Features with 3D Convolutional Networks
+* Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks
+* Attentional Pooling for Action Recognition
+* Quo Vadis Action Recognition. A New Model and the Kinetics Dataset
+* Learnable pooling with Context Gating for Video Classification
+* Videos as Space-Time Region Graphs
+* Non-local Neural Networks
+* A Closer Look at Spatiotemporal Convolutions for Action Recognition
+* The something something video database for learning and evaluating visual common sense
+* Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet
+* Collaborative Spatiotemporal Feature Learning for Video Action Recognition
+* SlowFast Networks for Video Recognition
+* TSM Temporal Shift Module for Efficient Video Understanding
 
 ## Attention
 
