@@ -67,6 +67,7 @@
 * Attentional Pooling for Action Recognition
 * Quo Vadis Action Recognition. A New Model and the Kinetics Dataset
 * Learnable pooling with Context Gating for Video Classification
+* Motion Feature Network Fixed Motion Filter for Action Regocnition
 * Videos as Space-Time Region Graphs
 * Non-local Neural Networks
 * A Closer Look at Spatiotemporal Convolutions for Action Recognition
