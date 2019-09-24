@@ -7,7 +7,7 @@
 * A Closed-form Solution to Universal Style Transfer
 * Learning Combinatorial Embedding Networks for Deep Graph Matching
 * Representation Flow for Action Recognition
-* Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition [CVPR2018]
+* Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Learning_a_Discriminative_CVPR_2018_paper.html)
 
 ## CNN Regularizer
 * REGULARIZING NEURAL NETWORKS BY PENALIZING CONFIDENT OUTPUT DISTRIBUTIONS
