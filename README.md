@@ -3,6 +3,7 @@
 ## CVPR2019/ICCV19 paper
 * Relational Knowledge Distillation
 * Correlation Congruence for Knowledge Distillation
+* Similarity-Preserving Knowledge Distillation
 * Metric Learning With HORDE High-Order Regularizer for Deep Embeddings
 * A Closed-form Solution to Universal Style Transfer
 * Learning Combinatorial Embedding Networks for Deep Graph Matching
