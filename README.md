@@ -98,5 +98,18 @@
 * When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets
 * Transferrable Prototypical Networks for Unsupervised Domain Adaptation
 
+## Distribution Embedding
+* A Hilbert Space Embedding for Distributions
+* A Kernel Method for the Two-Sample-Problem
+* On a new multivariate two-sample test
+* Covariate Shift by Kernel Mean Matching
+* The Kernel Trick for Distances 
+* Testing for equal distributions in high dimension
+* Kernel Mean Shrinkage Estimators
+* Measuring Statistical Dependence with Hilbert-Schmidt Norms
+* On Wasserstein Two-Sample Testing and Related Families of Nonparametric Tests
+* Kernel Mean Embedding of Distributions A Review and Beyond
+* Testing mutual independence in highdimenshion via distance convariance
+
 
 
