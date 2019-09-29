@@ -79,6 +79,8 @@
 * Collaborative Spatiotemporal Feature Learning for Video Action Recognition
 * SlowFast Networks for Video Recognition
 * TSM Temporal Shift Module for Efficient Video Understanding
+* An empirical evaluation of generic convolutional and recurrent networks for sequence modeling
+* Temporal Convolutional Networks for Action Segmentation and Detection
 
 ## Attention
 * Attention Is All You Need
