@@ -82,6 +82,7 @@
 * An empirical evaluation of generic convolutional and recurrent networks for sequence modeling
 * Temporal Convolutional Networks for Action Segmentation and Detection
 * Rank Pooling for Action Recognition
+* Dynamic Image Networks for Action Recognition
 
 ## Attention
 * Attention Is All You Need
