@@ -115,5 +115,8 @@
 * Kernel Mean Embedding of Distributions A Review and Beyond
 * Testing mutual independence in highdimenshion via distance convariance
 
+## CNN
+* Spatial Transformer Networks
+
 
 
