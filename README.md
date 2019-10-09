@@ -117,6 +117,7 @@
 
 ## CNN
 * Spatial Transformer Networks
+* Deformable convolutional networks
 
 
 
