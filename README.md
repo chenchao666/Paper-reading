@@ -17,6 +17,7 @@
 * Label Refinery: Improving ImageNet Classification through Label Progression
 * Spectral Norm Regularization for Improving the Generalizability of deep learning
 * Robust Learning with Jacobian Regularization
+* Learning Compact Neural Networks with Regularization
 
 ## Unsupervised/ Simi-Supervised Feature Learning in CNN
 * Deep Learning via Semi-Supervised Embedding
