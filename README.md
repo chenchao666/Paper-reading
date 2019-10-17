@@ -41,6 +41,7 @@
 * Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
 * When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets
 * Semi-Supervised Learning via Compact Latent Space Clustering
+* Confidence Regularized Self-Training
 
 
 ## Bilinear Pooling/ Second Order Pooling
