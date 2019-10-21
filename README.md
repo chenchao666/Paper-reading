@@ -1,5 +1,8 @@
 # Paper-Reading
 
+## Higher-Order Statistics
+* Matrix algebra for higher order moments
+
 ## CVPR2019/ICCV19 paper
 * Relational Knowledge Distillation
 * Correlation Congruence for Knowledge Distillation
