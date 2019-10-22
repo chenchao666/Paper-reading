@@ -2,6 +2,8 @@
 
 ## Higher-Order Statistics
 * Matrix algebra for higher order moments
+* Tensor Methods in Statistics: Monographs on Statistics and Applied Probability
+
 
 ## CVPR2019/ICCV19 paper
 * Relational Knowledge Distillation
