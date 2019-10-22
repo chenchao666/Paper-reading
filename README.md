@@ -1,6 +1,7 @@
 # Paper-Reading
 
 ## Higher-Order Statistics
+* Higher Order Statistics and Neural Network for Tremor Recognition
 * Matrix algebra for higher order moments
 * Tensor Methods in Statistics: Monographs on Statistics and Applied Probability
 
