@@ -4,6 +4,7 @@
 * Higher Order Statistics and Neural Network for Tremor Recognition
 * Matrix algebra for higher order moments
 * Tensor Methods in Statistics: Monographs on Statistics and Applied Probability
+* From matrix to tensor： Multilinear Algebra and Signal Processing
 
 
 ## CVPR2019/ICCV19 paper
