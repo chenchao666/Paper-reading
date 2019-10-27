@@ -6,6 +6,9 @@
 * Tensor Methods in Statistics: Monographs on Statistics and Applied Probability
 * From matrix to tensor： Multilinear Algebra and Signal Processing
 
+# Tensor Analysis
+* Fast and Guaranteed Tensor Decomposition via Sketching
+
 
 ## CVPR2019/ICCV19 paper
 * Relational Knowledge Distillation
