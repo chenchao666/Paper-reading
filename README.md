@@ -1,5 +1,8 @@
 # Paper-Reading
 
+## Few shot
+* FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS
+
 ## Higher-Order Statistics
 * Higher Order Statistics and Neural Network for Tremor Recognition
 * Matrix algebra for higher order moments
