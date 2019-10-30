@@ -76,6 +76,7 @@
 * Local Temporal Bilinear Pooling for Fine-Grained Action Parsing
 * Deep CNNs Meet Global Covariance Pooling Better Representation and Generalization
 * Attentional Pooling for Action Recognition
+* Second-order Democratic Aggregation
 
 ## Action Recognition in Videos
 * Large-scale Video Classification with Convolutional Neural Networks
