@@ -7,6 +7,7 @@
 * Model-agnostic meta-learning for fast adaptation of deep networks
 * Prototypical networks for few-shot learning
 * Learning to Compare: Relation Network for Few-Shot Learning
+* Low-shot Visual Recognition by Shrinking and Hallucinating Features
 
 ## Higher-Order Statistics
 * Higher Order Statistics and Neural Network for Tremor Recognition
