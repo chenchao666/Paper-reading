@@ -6,6 +6,7 @@
 * Matching networks for one shot learning 
 * Model-agnostic meta-learning for fast adaptation of deep networks
 * Prototypical networks for few-shot learning
+* Learning to Compare: Relation Network for Few-Shot Learning
 
 ## Higher-Order Statistics
 * Higher Order Statistics and Neural Network for Tremor Recognition
