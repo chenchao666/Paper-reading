@@ -2,6 +2,8 @@
 
 ## Few shot
 * FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS
+* Siamese neural networks for one-shot image recognition
+* Matching networks for one shot learning 
 
 ## Higher-Order Statistics
 * Higher Order Statistics and Neural Network for Tremor Recognition
