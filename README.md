@@ -4,6 +4,8 @@
 * FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS
 * Siamese neural networks for one-shot image recognition
 * Matching networks for one shot learning 
+* Model-agnostic meta-learning for fast adaptation of deep networks
+* Prototypical networks for few-shot learning
 
 ## Higher-Order Statistics
 * Higher Order Statistics and Neural Network for Tremor Recognition
