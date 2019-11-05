@@ -14,6 +14,7 @@
 * Matrix algebra for higher order moments
 * Tensor Methods in Statistics: Monographs on Statistics and Applied Probability
 * From matrix to tensor： Multilinear Algebra and Signal Processing
+* Sorting out typicality with the inverse moment matrix SOS polynomial
 
 ### Tensor Analysis
 * Fast and Guaranteed Tensor Decomposition via Sketching
