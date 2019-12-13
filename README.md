@@ -1,5 +1,9 @@
 # Paper-Reading
 
+## Fine-grained
+* Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition
+* Fully convolutional attention networks for fine-grained recognition
+
 ## Few shot
 * FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS
 * Siamese neural networks for one-shot image recognition
