@@ -3,6 +3,7 @@
 ## Fine-grained
 * Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition
 * Fully convolutional attention networks for fine-grained recognition
+* Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition
 
 ## Few shot
 * FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS
