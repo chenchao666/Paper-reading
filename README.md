@@ -1,4 +1,7 @@
 # Paper-Reading
+## Co-Segmentation
+* Deep Object Co-Segmentation
+
 
 ## Fine-grained
 * Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition
