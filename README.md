@@ -4,12 +4,13 @@
 * DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency Detection
 
 
-## Fine-grained
+## Fine-grained Vision Recognition
 * Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition
 * Fully convolutional attention networks for fine-grained recognition
 * Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition
 * Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition
 * Deep Learning Face Attributes in the Wild
+* Learning to Navigate for Fine-grained Classification
 
 
 ## Few shot
