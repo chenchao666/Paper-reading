@@ -12,6 +12,7 @@
 * Deep Learning Face Attributes in the Wild
 * Learning to Navigate for Fine-grained Classification
 * Multiple Granularity Descriptors for Fine-grained Categorization
+* Age and Gender Recognition in the Wild with Deep Attention
 
 
 ## Few shot
