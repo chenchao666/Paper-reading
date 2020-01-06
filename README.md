@@ -11,6 +11,7 @@
 * Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition
 * Deep Learning Face Attributes in the Wild
 * Learning to Navigate for Fine-grained Classification
+* Multiple Granularity Descriptors for Fine-grained Categorization
 
 
 ## Few shot
