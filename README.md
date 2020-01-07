@@ -133,7 +133,7 @@
 * CBAM Convolutional Block Attention Module
 * BAM Bottleneck Attention Module
 * Residual Attention Network for Image Classification
-* pay more attention to attention
+* Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer
 * Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation
 
 ## Domian Adaptation
