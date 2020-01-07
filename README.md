@@ -2,6 +2,9 @@
 ## Co-Segmentation
 * Deep Object Co-Segmentation
 * DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency Detection
+* Image Co-segmentation via Saliency Co-fusion
+* An efficient algorithm for Co-segmentation
+* From Co-saliency to Co-segmentation
 
 
 ## Fine-grained Vision Recognition
