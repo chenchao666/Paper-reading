@@ -16,6 +16,7 @@
 * Learning to Navigate for Fine-grained Classification
 * Multiple Granularity Descriptors for Fine-grained Categorization
 * Age and Gender Recognition in the Wild with Deep Attention
+* Learning Deep Features for Discriminative Localization
 
 
 ## Few shot
