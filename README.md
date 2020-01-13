@@ -17,6 +17,7 @@
 * Multiple Granularity Descriptors for Fine-grained Categorization
 * Age and Gender Recognition in the Wild with Deep Attention
 * Learning Deep Features for Discriminative Localization
+* DEX: Deep EXpectation of apparent age from a single image
 
 
 ## Few shot
