@@ -16,8 +16,11 @@
 * Learning to Navigate for Fine-grained Classification
 * Multiple Granularity Descriptors for Fine-grained Categorization
 * Age and Gender Recognition in the Wild with Deep Attention
-* Learning Deep Features for Discriminative Localization
 * DEX: Deep EXpectation of apparent age from a single image
+
+## Weakly supervised localization
+* Learning Deep Features for Discriminative Localization
+* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
 
 
 ## Few shot
