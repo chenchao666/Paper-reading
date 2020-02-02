@@ -30,6 +30,8 @@
 ## Weakly supervised localization
 * Learning Deep Features for Discriminative Localization
 * Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+* Tell Me Where to Look: Guided Attention Inference Network
+* Attention-based Dropout Layer for Weakly Supervised Object Localization
 
 
 ## Few shot
