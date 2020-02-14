@@ -35,6 +35,8 @@
 * Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach
 * Adversarial Complementary Learning for Weakly Supervised Object Localization
 * Top-Down Neural Attention by Excitation Backprop
+* Hide-and-Seek: Forcing a network to be meticulous for weakly-supervised object and action localization
+* Random Erasing Data Augmentation
 
 
 
