@@ -33,6 +33,7 @@
 * Tell Me Where to Look: Guided Attention Inference Network
 * Attention-based Dropout Layer for Weakly Supervised Object Localization
 * Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach
+* Adversarial Complementary Learning for Weakly Supervised Object Localization
 
 
 
