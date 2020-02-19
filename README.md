@@ -2,6 +2,7 @@
 
 ## Uncertainty in Deep Learning
 * What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision ?
+* Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 * Multi-task learning using uncertainty to weigh losses for scene geometry and semantics
 * Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding
 * U-CAM: Visual Explanation using Uncertainty based Class Activation Maps
