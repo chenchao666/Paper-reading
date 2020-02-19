@@ -1,5 +1,9 @@
 # Paper-Reading
 
+## 3D Vision
+* DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
+* What Do Single-view 3D Reconstruction Networks Learn? 
+
 ## Uncertainty in Deep Learning
 * What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision ?
 * Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
