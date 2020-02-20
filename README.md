@@ -1,6 +1,7 @@
 # Paper-Reading
 
 ## 3D Vision
+* A Point Set Generation Network for 3D Object Reconstruction from a Single Image
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
 * What Do Single-view 3D Reconstruction Networks Learn? 
 
