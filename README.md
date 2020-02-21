@@ -4,6 +4,7 @@
 * A Point Set Generation Network for 3D Object Reconstruction from a Single Image
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
 * What Do Single-view 3D Reconstruction Networks Learn? 
+* Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation
 
 ## Uncertainty in Deep Learning
 * What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision ?
