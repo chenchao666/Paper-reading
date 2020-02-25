@@ -9,6 +9,7 @@
 * Representation Learning with Contrastive Predictive Coding
 * CONTRASTIVE MULTIVIEW CODING
 * Learning representations by maximizing mutual information across views
+* Learning deep representations by mutual information estimation and maximization
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
 * Momentum Contrast for Unsupervised Visual Representation Learning
 
