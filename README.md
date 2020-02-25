@@ -3,6 +3,8 @@
 ## Self-supervised Learning
 * Self-supervised learning of pretext-invariant representations
 * A Simple Framework for Contrastive Learning of Visual Representations
+* ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING
+* CONTRASTIVE MULTIVIEW CODING
 
 ## 3D Vision
 * A Point Set Generation Network for 3D Object Reconstruction from a Single Image
