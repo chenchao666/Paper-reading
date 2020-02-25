@@ -6,6 +6,7 @@
 * ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING
 * CONTRASTIVE MULTIVIEW CODING
 * Learning representations by maximizing mutual information across views
+* Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
 
 ## 3D Vision
 * A Point Set Generation Network for 3D Object Reconstruction from a Single Image
