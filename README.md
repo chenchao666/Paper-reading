@@ -7,6 +7,7 @@
 * Unsupervised Feature Learning via Non-Parametric Instance Discrimination
 * ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING
 * Representation Learning with Contrastive Predictive Coding
+* UNSUPERVISED REPRESENTATION LEARNING BY PREDICTING IMAGE ROTATIONS
 * CONTRASTIVE MULTIVIEW CODING
 * Learning representations by maximizing mutual information across views
 * Learning deep representations by mutual information estimation and maximization
