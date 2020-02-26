@@ -3,7 +3,6 @@
 ## Self-supervised Learning
 * Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
 * Self-supervised learning of pretext-invariant representations
-* A Simple Framework for Contrastive Learning of Visual Representations
 * Unsupervised Feature Learning via Non-Parametric Instance Discrimination
 * ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING
 * Representation Learning with Contrastive Predictive Coding
@@ -13,6 +12,7 @@
 * Learning deep representations by mutual information estimation and maximization
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
 * Momentum Contrast for Unsupervised Visual Representation Learning
+* A Simple Framework for Contrastive Learning of Visual Representations
 
 
 ## 3D Vision
