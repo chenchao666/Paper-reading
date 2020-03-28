@@ -13,6 +13,7 @@
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
 * Momentum Contrast for Unsupervised Visual Representation Learning
 * A Simple Framework for Contrastive Learning of Visual Representations
+* RETHINKING DATA AUGMENTATION: SELF-SUPERVISION AND SELF-DISTILLATION
 
 
 ## 3D Vision
