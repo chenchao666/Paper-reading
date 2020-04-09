@@ -1,6 +1,6 @@
 # Paper-Reading
 
-## Long-tailed/unbalanced problem
+## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
 * BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition
 
