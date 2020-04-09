@@ -1,5 +1,10 @@
 # Paper-Reading
 
+## Long-tailed/unbalanced problem
+* DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
+* BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition
+
+
 ## Self-supervised Learning
 * Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
 * Self-supervised learning of pretext-invariant representations
