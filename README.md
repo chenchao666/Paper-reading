@@ -19,6 +19,7 @@
 * Momentum Contrast for Unsupervised Visual Representation Learning
 * A Simple Framework for Contrastive Learning of Visual Representations
 * RETHINKING DATA AUGMENTATION: SELF-SUPERVISION AND SELF-DISTILLATION
+* A CRITICAL ANALYSIS OF SELF-SUPERVISION, OR WHAT WE CAN LEARN FROM A SINGLE IMAGE
 
 
 ## 3D Vision
