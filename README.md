@@ -5,6 +5,7 @@
 
 ## Ensemble
 * ENSEMBLENET: END-TO-END OPTIMIZATION OF MULTI-HEADED MODELS
+* Collaborative Learning for Deep Neural Networks
 
 ## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
