@@ -3,6 +3,9 @@
 ## Image-to-Image
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
 
+## Ensemble
+* ENSEMBLENET: END-TO-END OPTIMIZATION OF MULTI-HEADED MODELS
+
 ## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
 * BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition
