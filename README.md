@@ -3,10 +3,11 @@
 ## Image-to-Image
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
 
-## Ensemble
+## Deep Ensemble
 * ENSEMBLENET: END-TO-END OPTIMIZATION OF MULTI-HEADED MODELS
 * Collaborative Learning for Deep Neural Networks
 * TEMPORAL ENSEMBLING FOR SEMI-SUPERVISED LEARNING
+* Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results
 
 ## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
