@@ -8,6 +8,7 @@
 * Collaborative Learning for Deep Neural Networks
 * TEMPORAL ENSEMBLING FOR SEMI-SUPERVISED LEARNING
 * Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results
+* SNAPSHOT ENSEMBLES: TRAIN 1, GET M FOR FREE
 
 ## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
