@@ -1,5 +1,8 @@
 # Paper-Reading
 
+## CG
+* Equivariant Neural Rendering
+
 ## Image-to-Image
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
 
