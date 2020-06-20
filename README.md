@@ -3,6 +3,7 @@
 ## 3D Vision
 * Multi-view 3D Models from Single Images with a Convolutional Network
 * Equivariant Neural Rendering
+* State of the Art on Neural Rendering
 
 ## Image-to-Image
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
