@@ -1,6 +1,6 @@
 # Paper-Reading
 
-## 3D Vision
+## Neural Rendering
 * Multi-view 3D Models from Single Images with a Convolutional Network
 * Equivariant Neural Rendering
 * State of the Art on Neural Rendering
