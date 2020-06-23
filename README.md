@@ -36,6 +36,7 @@
 * A Simple Framework for Contrastive Learning of Visual Representations
 * RETHINKING DATA AUGMENTATION: SELF-SUPERVISION AND SELF-DISTILLATION
 * A CRITICAL ANALYSIS OF SELF-SUPERVISION, OR WHAT WE CAN LEARN FROM A SINGLE IMAGE
+* Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
 
 
 ## 3D Vision
