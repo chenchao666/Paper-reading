@@ -195,6 +195,7 @@
 * Temporal Convolutional Networks for Action Segmentation and Detection
 * Rank Pooling for Action Recognition
 * Dynamic Image Networks for Action Recognition
+* Gate-Shift Networks for Video Action Recognition
 
 ## Attention
 * Attention Is All You Need
