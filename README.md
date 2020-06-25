@@ -7,6 +7,7 @@
 
 ## Image-to-Image
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
+* Deep Image Prior
 
 ## Deep Ensemble
 * ENSEMBLENET: END-TO-END OPTIMIZATION OF MULTI-HEADED MODELS
