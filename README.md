@@ -9,6 +9,7 @@
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
 * Deep Image Prior
 * Noise2Noise: Learning Image Restoration without Clean Data
+* Deep Learning for Single Image Super-Resolution: A Brief Review
 
 ## Deep Ensemble
 * ENSEMBLENET: END-TO-END OPTIMIZATION OF MULTI-HEADED MODELS
