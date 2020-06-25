@@ -8,6 +8,7 @@
 ## Image-to-Image
 * Deeply-Recursive Convolutional Network for Image Super-Resolution
 * Deep Image Prior
+* Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
 * Noise2Noise: Learning Image Restoration without Clean Data
 * Deep Learning for Single Image Super-Resolution: A Brief Review
 
