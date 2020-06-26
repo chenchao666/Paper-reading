@@ -1,5 +1,8 @@
 # Paper-Reading
 
+## Learning Theory
+* A Convergence Theory for Deep Learning via Over-Parameterization
+
 ## Neural Rendering
 * Multi-view 3D Models from Single Images with a Convolutional Network
 * Equivariant Neural Rendering
