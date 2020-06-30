@@ -15,6 +15,7 @@
 * Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
 * Noise2Noise: Learning Image Restoration without Clean Data
 * Deep Learning for Single Image Super-Resolution: A Brief Review
+* Multi-level Wavelet-CNN for Image Restoration
 
 ## Deep Ensemble
 * ENSEMBLENET: END-TO-END OPTIMIZATION OF MULTI-HEADED MODELS
