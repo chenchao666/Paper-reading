@@ -94,6 +94,8 @@
 * Hide-and-Seek: Forcing a network to be meticulous for weakly-supervised object and action localization
 * Random Erasing Data Augmentation
 
+# Age Estimation & Distribution Learning
+* Mean-Variance Loss for Deep Age Estimation from a Face
 
 
 ## Few shot
