@@ -3,6 +3,7 @@
 ## Learning Theory
 * A Convergence Theory for Deep Learning via Over-Parameterization
 * How does Disagreement Help Generalization against Label Corruption?
+* NETWORK DECONVOLUTION
 
 ## Neural Rendering
 * Multi-view 3D Models from Single Images with a Convolutional Network
