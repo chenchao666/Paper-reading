@@ -97,6 +97,7 @@
 
 # Age Estimation & Distribution Learning
 * Mean-Variance Loss for Deep Age Estimation from a Face
+* Age Estimation Using Expectation of Label Distribution Learning
 
 
 ## Few shot
