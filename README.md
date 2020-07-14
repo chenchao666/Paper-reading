@@ -98,6 +98,8 @@
 # Age Estimation & Distribution Learning
 * Mean-Variance Loss for Deep Age Estimation from a Face
 * Age Estimation Using Expectation of Label Distribution Learning
+* DEX: Deep EXpectation of apparent age from a single image
+* Deep Age Distribution Learning for Apparent Age Estimation
 
 
 ## Few shot
