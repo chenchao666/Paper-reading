@@ -1,5 +1,8 @@
 # Paper-Reading
 
+## Generalization 
+* IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS
+
 ## Learning Theory
 * A Convergence Theory for Deep Learning via Over-Parameterization
 * How does Disagreement Help Generalization against Label Corruption?
