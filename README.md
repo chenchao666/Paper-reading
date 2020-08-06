@@ -3,6 +3,7 @@
 ## Generalization 
 * IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS
 * Self-training with Noisy Student improves ImageNet classification
+* Frustratingly Simple Domain Generalization via Image Stylization
 
 ## Learning Theory
 * A Convergence Theory for Deep Learning via Over-Parameterization
