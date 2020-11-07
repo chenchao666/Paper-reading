@@ -12,6 +12,7 @@
 * NETWORK DECONVOLUTION
 
 ## Neural Rendering
+* PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
 * Multi-view 3D Models from Single Images with a Convolutional Network
 * Equivariant Neural Rendering
 * State of the Art on Neural Rendering
