@@ -117,6 +117,7 @@
 * Prototypical networks for few-shot learning
 * Learning to Compare: Relation Network for Few-Shot Learning
 * Low-shot Visual Recognition by Shrinking and Hallucinating Features
+* FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION
 
 ## Higher-Order Statistics
 * Higher Order Statistics and Neural Network for Tremor Recognition
