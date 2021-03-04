@@ -1,5 +1,9 @@
 # Paper-Reading
 
+## Transformer in CV
+* AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+
+
 ## Generalization / Domain generalization
 * IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS
 * Self-training with Noisy Student improves ImageNet classification
