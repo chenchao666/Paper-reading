@@ -112,6 +112,10 @@
 * DEX: Deep EXpectation of apparent age from a single image
 * Deep Age Distribution Learning for Apparent Age Estimation
 
+# Learning from Noise Label
+* Does Label Smoothing Mitigate Label Noise
+* When does label smoothing help
+
 
 ## Few shot
 * FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS
