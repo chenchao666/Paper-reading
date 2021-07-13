@@ -4,6 +4,7 @@
 * Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection
 * Deep Image Blending
 * Learning to Generate Synthetic Data via Compositing
+* Poisson Image Editing
 
 
 ## Transformer in CV
