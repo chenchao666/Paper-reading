@@ -1,5 +1,10 @@
 # Paper-Reading
 
+## Image composition and blending 
+* Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection
+* Deep Image Blending
+
+
 ## Transformer in CV
 * AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
 
