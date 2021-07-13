@@ -3,6 +3,7 @@
 ## Image composition and blending 
 * Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection
 * Deep Image Blending
+* Learning to Generate Synthetic Data via Compositing
 
 
 ## Transformer in CV
