@@ -6,6 +6,7 @@
 * Learning to Generate Synthetic Data via Compositing
 * Poisson Image Editing
 * Learning Object Placement by Inpainting for Compositional Data Augmentation
+* Making Images Real Again: A Comprehensive Survey on Deep Image Composition
 
 
 ## Transformer in CV
