@@ -5,6 +5,7 @@
 * Deep Image Blending
 * Learning to Generate Synthetic Data via Compositing
 * Poisson Image Editing
+* Learning Object Placement by Inpainting for Compositional Data Augmentation
 
 
 ## Transformer in CV
