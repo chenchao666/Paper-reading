@@ -146,6 +146,7 @@
 ### Tensor Analysis
 * Fast and Guaranteed Tensor Decomposition via Sketching
 * Tensor Decompositions for Learning Latent Variable Models
+* Theory of multivariate statistics
 
 
 ## CVPR2019/ICCV19 paper
