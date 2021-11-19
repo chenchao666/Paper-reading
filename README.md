@@ -54,6 +54,7 @@
 * SNAPSHOT ENSEMBLES: TRAIN 1, GET M FOR FREE
 * Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
 * Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning
+* WISDOM OF COMMITTEES: AN OVERLOOKED APPROACH TO FASTER AND MORE ACCURATE MODELS
 
 ## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
