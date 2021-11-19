@@ -5,6 +5,7 @@
 * Multi-center (subclass) feature representation.
 * Subclass Distillation
 * Sub-center ArcFace: Boosting Face Recognition by Large-Scale Noisy Web Faces
+* Supervised Learning with Unsupervised Output Separation
 
 
 
