@@ -1,9 +1,10 @@
 # Paper-Reading
 
 
-## Idea
+## Subclass Classification
 * Multi-center (subclass) feature representation.
 * deep ensembleing learning
+* Subclass Distillation
 
 
 
