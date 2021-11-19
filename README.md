@@ -1,5 +1,12 @@
 # Paper-Reading
 
+
+## Idea
+* Multi-center (subclass) feature representation.
+* deep ensembleing learning
+
+
+
 ## Image composition and blending 
 * Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection
 * Deep Image Blending
@@ -45,6 +52,7 @@
 * Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results
 * SNAPSHOT ENSEMBLES: TRAIN 1, GET M FOR FREE
 * Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
+* Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning
 
 ## Long-tailed/imbalanced problem
 * DECOUPLING REPRESENTATION AND CLASSIFIER FOR LONG-TAILED RECOGNITION
