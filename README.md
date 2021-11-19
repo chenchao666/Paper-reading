@@ -3,8 +3,8 @@
 
 ## Subclass Classification
 * Multi-center (subclass) feature representation.
-* deep ensembleing learning
 * Subclass Distillation
+* Sub-center ArcFace: Boosting Face Recognition by Large-Scale Noisy Web Faces
 
 
 
